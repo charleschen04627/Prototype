@@ -112,7 +112,7 @@ Location</string>
                                     <outlet property="descriptionLabel" destination="EGe-0T-frx" id="VZd-7I-FAS"/>
                                     <outlet property="feedImageView" destination="DbS-AT-h3T" id="zhU-4P-P3S"/>
                                     <outlet property="locationContainer" destination="keH-o3-WTi" id="cgv-z6-O7h"/>
-                                    <outlet property="locationLable" destination="YvI-s1-x25" id="sgf-k0-KhM"/>
+                                    <outlet property="locationLabel" destination="YvI-s1-x25" id="sgf-k0-KhM"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
